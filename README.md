@@ -3,7 +3,7 @@ get to know the ursina engine by building your own three-dimensional space
 
 ***
 
-## Try it, you might be able to create your dream room. ##
+## Try it, you might be able to design your dream room. ##
 
 ***
 
