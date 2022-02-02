@@ -27,12 +27,13 @@ to execute the program.
 ***
 
 ### Add any 3d object ###
-To insert a tree-dimensional object
+To insert a tree-dimensional object, place the file obj file in the sample.obj files directory.
 
-add
+Add
     
-    s=Entity(
-    model="obj/sample.obj", scale=1, y=1, z=1, position=(5,5,5), texture="sample.jpg"
+    object1=Entity(
+    model="sample.obj", scale=1, y=1, z=1, position=(5,5,5), texture="sample.jpg"
     )
 
+and replace sample.obj with the name of the object you want to insert.
 ***
