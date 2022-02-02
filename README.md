@@ -32,7 +32,7 @@ To insert a tree-dimensional object, place the file obj file in the sample.obj f
 Add
     
     object1=Entity(
-    model="sample.obj", scale=1, y=1, z=1, position=(5,5,5), texture="sample.jpg"
+    model="sample.obj", scale=1, y=1, z=1, position=(5,5,5), color=color.blue
     )
 
 and replace sample.obj with the name of the object you want to insert.
