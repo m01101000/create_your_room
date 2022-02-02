@@ -25,3 +25,14 @@ Enter
 to execute the program.
 
 ***
+
+### Add any 3d object ###
+To insert a tree-dimensional object
+
+add
+    
+    s=Entity(
+    model="obj/sample.obj", scale=1, y=1, z=1, position=(5,5,5), texture="sample.jpg"
+    )
+
+***
