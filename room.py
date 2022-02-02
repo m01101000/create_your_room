@@ -13,13 +13,13 @@ class sky(Entity):
 for z in range(10):
     for x in range(19):
         Entity(
-            model="cube", color=color.dark_gray, collider="box", ignore=True, position=(x, 0, z), parent=scene, origin_y=0.5, texture="img/texture/6.jpg"
+            model="cube", color=color.dark_gray, collider="box", ignore=True, position=(x, 0, z), parent=scene, origin_y=0.5, texture="img/texture/2.jpg"
         )
 #roof
 for z in range(10):
     for x in range(19):
         Entity(
-            model="cube", color=color.dark_gray, collider="box", ignore=True, position=(x, 5, z), parent=scene, origin_y=0.5, texture="img/texture/6.jpg"
+            model="cube", color=color.dark_gray, collider="box", ignore=True, position=(x, 5, z), parent=scene, origin_y=0.5, texture="img/texture/2.jpg"
         )
 #wall
 for x in range(19):
