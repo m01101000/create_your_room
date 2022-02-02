@@ -41,4 +41,6 @@ Add
 
 and replace sample.obj with the name of the object you want to insert.
 ***
-|Your room could look like this|![room](https://user-images.githubusercontent.com/96919599/152256269-118bcfad-9759-4aea-9030-3bf7e2d13482.jpg)|
+|| Your room could look like this |
+|------------------------------|-|
+|![room1](https://user-images.githubusercontent.com/96919599/152256617-a48f12b8-824f-4e87-9829-10f33ccd5357.png)|![room](https://user-images.githubusercontent.com/96919599/152256436-6153668b-0a45-4aaa-9615-8b9623896fd2.jpg)|
